@@ -1,2 +1,3 @@
 <h1> Hello <h1>
-![Metrics](https://metrics.lecoq.io/lumenarx)
+uses: lumenarx/metrics@latest
+with: plugin_languages: yes
